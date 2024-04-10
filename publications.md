@@ -1,3 +1,8 @@
+---
+layout: page
+title: publications
+---
+
 * **Li, X.**, Yan, H., Wong, G., Ouyang, W., & Cui, J. (2023). Identifying featured indels associated with SARS-CoV-2 fitness. *Microbiol Spectr*. 
 
 * Song, Y., **Li, X.**, Wei, X., & Cui, J. (2021). Human Endogenous Retroviruses as Biomedicine Markers. *Virol Sin*. (Co-first author)
