@@ -10,8 +10,7 @@
 ############################
 
 # Name of website
-title: My website
-#title: "Xiang's Website"
+title: "Xiang's Website"
 
 # Your name to show in the footer
 author: Xiang Li
@@ -23,9 +22,9 @@ author: Xiang Li
 navbar-links:
   Home: "https://xiang-leo.github.io/"
   Publications: ""
-  About Me: "aboutme"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #
@@ -40,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+# title-img: /path/to/image
 
 
 #####################################
@@ -54,8 +53,8 @@ round-avatar: true
   # email: "xiangli.aca@outlook.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: https://github.com/Xiang-Leo
-  twitter: XiangLi_5
+  github: "https://github.com/Xiang-Leo"
+  twitter: "XiangLi_5"
 # patreon: DeanAttali
 # youtube: "@daattali"
 # whatsapp: 15551212
@@ -76,7 +75,7 @@ round-avatar: true
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-   google-scholar: https://scholar.google.com/citations?hl=zh-CN&user=8G1RTMgAAAAJ
+   google-scholar: "https://scholar.google.com/citations?hl=zh-CN&user=8G1RTMgAAAAJ"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
