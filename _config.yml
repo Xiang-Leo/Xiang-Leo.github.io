@@ -21,7 +21,7 @@ author: Xiang Li
 
 navbar-links:
   Home: "https://xiang-leo.github.io/"
-  Publications: ""
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
