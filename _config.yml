@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://xiang-leo.github.io/"
   Publications: "publications"
   Resources:
-    - Biological database
+    - Biological database:
       - NCBI: "https://www.ncbi.nlm.nih.gov/"
       - EMBL-EBI: "https://www.ebi.ac.uk/"
       - UCSC Genome Browser: "https://genome-asia.ucsc.edu/cgi-bin/hgGateway?redirect=manual&source=genome.ucsc.edu"
